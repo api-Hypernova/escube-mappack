@@ -1,0 +1,26 @@
+On Sun, Ocb 17, 2010, Yves Allaire <info@evillair.net> wrote:
+
+Hi,
+
+Yeah sure, please just credit me for the original textures please.
+
+Regards,
+Yves Allaire
+
+
+On Sun, Oct 17, 2010 at 4:06 PM, Suicizer <supersauer@live.nl> wrote:
+
+    This is an enquiry e-mail via http://www.evillair.net/v2 from:
+    Suicizer <supersauer@live.nl>
+
+    Dear Yves,
+    I've seen your creations of modeling and was wondering if I could add (seperate) specular and bumpmaps to models that have a license wich said the skin shouldnt be used as base for other skins.
+    Because those specular and bumpmapped skins have to be based from the original skin, I would like to ask if I got permission to make those specular and bumpmaps for those models (like "el_generator", "elspawn", "elglight2", etc), so I can use them to create a modelpack for Cube Engine 2...
+    Another question is,
+    Can I rename skins and models too?
+
+    Thanks already.
+
+    With kind regards,
+
+    Suicizer.

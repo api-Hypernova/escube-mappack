@@ -1,0 +1,36 @@
+08-JAN-08
+
+---------------------------------------------------------------------------
+
+Title:			Yan's Test (yan_test)
+Filename:			yan_test.pk4
+Author:			Yan Ostretsov (Method)
+Email Address:		yanostretsov@yahoo.com
+Web Site:		http://www.methodonline.com
+ICQ:			331841845
+
+Description:		Originally this map was a 10 day design test for id Software.
+			After submitting the map, I took a few more days to make
+			moss version of each texture to create a more unique look.
+			Design test version was the same, except the moss.
+
+Game Type:		Tourney and Deathmatch
+
+---------------------------------------------------------------------------
+
+Textures
+
+All textures were created from photo reference of CGTextures.com and then heavily modified.
+Thanks Marcel for your great references. Pak file contains more textures inside for community use,
+given if you credit and email me to check the level out.
+
+---------------------------------------------------------------------------
+
+This level is (c)2008, Yan Ostretsov.
+
+You are not to include or distribute this map in any sort of commercial
+product without first obtaining permission from the author.
+  
+You may not mass distribute this level via any non-electronic means,
+including but not limited to compact disks, and floppy disks without
+first obtaining permission from the author.

@@ -1,0 +1,15 @@
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/">
+<img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png" />
+</a>
+<br />
+<span xmlns:dc="http://purl.org/dc/elements/1.1/" property="dc:title">Plasmer</span> by 
+<span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Kretren</span> is licensed under a 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/ca/">Creative Commons Attribution-Noncommercial-No Derivative Works 2.5 Canada License</a>.
+
+
+
+This is the license to be inbedded in a website, but unfortunately I don't have one. Basically you can use and disctribute my work as long as I get credit. You can't edit the material in this package without my permission or knowledge. That's for two reasons: First of all, editing the map or .cfg could give you an advantage over other players who don't also have the same edits. The other reason is that any edits you do make might benefit my work (texture fixes, etc.) so I'd like to apply these changes to the original file.
+
+Enjoy!
+
+-Kretren

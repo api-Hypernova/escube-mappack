@@ -1,0 +1,21 @@
+[scorch] 18th october 2011 - by unixfreak
+
+This is probably not the finished version of the map,
+some of the layout may change depending on how it plays.
+
+This was made over a period of 3 weeks (sometimes editing 
+for over 5hours at a time)
+
+made with these game modes in mind:
+   - regen capture
+   - free for all
+   - instagib
+   
+Waypoints are not set up properly yet (one or two player-
+starts appear to get the bots stuck) i will update it soon.
+   
+if you want to ask me about it and can't find me in game
+email is < punkrockunix@gmail.com >
+
+license; cc-by-nc
+http://creativecommons.org/licenses/by-nc/3.0/
